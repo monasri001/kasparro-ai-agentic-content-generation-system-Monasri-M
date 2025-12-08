@@ -1,0 +1,49 @@
+{
+  "workflow_completed": true,
+  "total_nodes": 6,
+  "successful_nodes": 6,
+  "execution_summary": {
+    "total_steps": 12,
+    "data_keys": [
+      "initial_data",
+      "parser",
+      "question_generator",
+      "content_blocks",
+      "faq_template",
+      "product_template",
+      "comparison_template"
+    ],
+    "execution_log": [
+      {
+        "timestamp": "2025-12-08T22:31:35.958998",
+        "node": "faq_template",
+        "status": "completed",
+        "message": "Duration: 0.00s"
+      },
+      {
+        "timestamp": "2025-12-08T22:31:35.959996",
+        "node": "product_template",
+        "status": "running",
+        "message": ""
+      },
+      {
+        "timestamp": "2025-12-08T22:31:35.961020",
+        "node": "product_template",
+        "status": "completed",
+        "message": "Duration: 0.00s"
+      },
+      {
+        "timestamp": "2025-12-08T22:31:35.961020",
+        "node": "comparison_template",
+        "status": "running",
+        "message": ""
+      },
+      {
+        "timestamp": "2025-12-08T22:31:35.962055",
+        "node": "comparison_template",
+        "status": "completed",
+        "message": "Duration: 0.00s"
+      }
+    ]
+  }
+}

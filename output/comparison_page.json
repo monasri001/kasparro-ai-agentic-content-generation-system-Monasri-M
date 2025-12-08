@@ -1,0 +1,93 @@
+{
+  "page_type": "comparison_page",
+  "generated_at": "2025-12-08T22:31:35.962055",
+  "template_version": "1.0",
+  "content": {
+    "title": "Comparison: HydraGlow Hyaluronic Serum vs DermaGlow Vitamin E Serum",
+    "summary": "Comparing two popular vitamin C serums for different needs",
+    "products": [
+      {
+        "name": "HydraGlow Hyaluronic Serum",
+        "label": "Our Product",
+        "price": "₹899",
+        "key_ingredients": [
+          "Hyaluronic Acid",
+          "Vitamin B5",
+          "Ceramides"
+        ],
+        "benefits": [
+          "Hydration",
+          "Plumps skin"
+        ],
+        "best_for": [
+          "Dry",
+          "Sensitive"
+        ],
+        "concentration": "2% Hyaluronic Acid",
+        "value_rating": "Premium quality",
+        "pros": [
+          "Higher Vitamin C concentration",
+          "Multiple brightening benefits",
+          "Competitive pricing"
+        ],
+        "cons": [
+          "May cause tingling for very sensitive skin",
+          "Specific to oily/combination skin"
+        ]
+      },
+      {
+        "name": "DermaGlow Vitamin E Serum",
+        "label": "Alternative",
+        "price": "₹899",
+        "key_ingredients": [
+          "Vitamin E",
+          "Niacinamide",
+          "Green Tea Extract"
+        ],
+        "benefits": [
+          "Hydration",
+          "Reduces Redness",
+          "Antioxidant Protection"
+        ],
+        "best_for": [
+          "All",
+          "Sensitive",
+          "Dry"
+        ],
+        "concentration": "5% Vitamin E",
+        "value_rating": "Premium",
+        "pros": [
+          "Gentle formula",
+          "Suitable for all skin types",
+          "Additional antioxidant Vitamin E"
+        ],
+        "cons": [
+          "Higher price point",
+          "Lower active concentration"
+        ]
+      }
+    ],
+    "key_differences": [
+      {
+        "aspect": "Price",
+        "product_a": "₹899",
+        "product_b": "₹899",
+        "winner": "A"
+      },
+      {
+        "aspect": "Key Ingredients",
+        "product_a": "3 actives",
+        "product_b": "3 key ingredients",
+        "winner": "B"
+      },
+      {
+        "aspect": "Best For",
+        "product_a": "Dry, Sensitive",
+        "product_b": "All skin types, especially sensitive",
+        "winner": "Depends on skin type"
+      }
+    ],
+    "recommendation": "For sensitive skin or those wanting Vitamin E benefits, DermaGlow Vitamin E Serum might be preferable despite higher cost.",
+    "disclaimer": "Product B is fictional for demonstration. Always patch test new products."
+  }
+}

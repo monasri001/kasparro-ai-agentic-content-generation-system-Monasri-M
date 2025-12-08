@@ -1,0 +1,123 @@
+{
+  "page_type": "faq",
+  "generated_at": "2025-12-08T22:31:35.958998",
+  "template_version": "1.0",
+  "content": {
+    "title": "FAQ - HydraGlow Hyaluronic Serum",
+    "product": {
+      "name": "HydraGlow Hyaluronic Serum",
+      "price": "₹899",
+      "category": "Skincare Serum"
+    },
+    "summary": "Common questions about HydraGlow Hyaluronic Serum, a 2% Hyaluronic Acid serum.",
+    "categories": [
+      {
+        "name": "Informational",
+        "count": 15,
+        "questions": [
+          {
+            "id": 1,
+            "question": "What is HydraGlow Hyaluronic Serum?",
+            "answer": "This is HydraGlow Hyaluronic Serum?. It contains 3 active ingredients."
+          },
+          {
+            "id": 2,
+            "question": "What are the main ingredients in HydraGlow Hyaluronic Serum?",
+            "answer": "What are the main ingredients in HydraGlow Hyaluronic Serum?. It contains 3 active ingredients."
+          },
+          {
+            "id": 3,
+            "question": "What is the concentration of active ingredients in HydraGlow Hyaluronic Serum?",
+            "answer": "This is the concentration of active ingredients in HydraGlow Hyaluronic Serum?. It contains 3 active ingredients."
+          }
+        ]
+      },
+      {
+        "name": "Safety",
+        "count": 15,
+        "questions": [
+          {
+            "id": 4,
+            "question": "Are there any side effects of using HydraGlow Hyaluronic Serum?",
+            "answer": "None for most skin types Recommendations: "
+          },
+          {
+            "id": 5,
+            "question": "Is HydraGlow Hyaluronic Serum safe for sensitive skin?",
+            "answer": "None for most skin types Recommendations: "
+          },
+          {
+            "id": 6,
+            "question": "Can HydraGlow Hyaluronic Serum cause irritation?",
+            "answer": "None for most skin types Recommendations: "
+          }
+        ]
+      },
+      {
+        "name": "Usage",
+        "count": 15,
+        "questions": [
+          {
+            "id": 7,
+            "question": "How do I use HydraGlow Hyaluronic Serum?",
+            "answer": "Apply 1-2 pumps morning and night after cleansing. Best used: Morning. Key tip: Apply to damp skin for better absorption"
+          },
+          {
+            "id": 8,
+            "question": "When should I apply HydraGlow Hyaluronic Serum?",
+            "answer": "Apply 1-2 pumps morning and night after cleansing. Best used: Morning. Key tip: Apply to damp skin for better absorption"
+          },
+          {
+            "id": 9,
+            "question": "How much HydraGlow Hyaluronic Serum should I use per application?",
+            "answer": "Apply 1-2 pumps morning and night after cleansing. Best used: Morning. Key tip: Apply to damp skin for better absorption"
+          }
+        ]
+      },
+      {
+        "name": "Purchase",
+        "count": 15,
+        "questions": [
+          {
+            "id": 10,
+            "question": "How much does HydraGlow Hyaluronic Serum cost?",
+            "answer": "Price: ₹899. Category: Mid-range. Value: Premium quality"
+          },
+          {
+            "id": 11,
+            "question": "Where can I buy HydraGlow Hyaluronic Serum?",
+            "answer": "Price: ₹899. Category: Mid-range. Value: Premium quality"
+          },
+          {
+            "id": 12,
+            "question": "Is HydraGlow Hyaluronic Serum worth the price?",
+            "answer": "Price: ₹899. Category: Mid-range. Value: Premium quality"
+          }
+        ]
+      },
+      {
+        "name": "Comparison",
+        "count": 15,
+        "questions": [
+          {
+            "id": 13,
+            "question": "How does HydraGlow Hyaluronic Serum compare to other vitamin C serums?",
+            "answer": "This product offers unique benefits including Hydration, Plumps skin. Compare with similar products for your specific needs."
+          },
+          {
+            "id": 14,
+            "question": "What makes HydraGlow Hyaluronic Serum different from competitors?",
+            "answer": "This product offers unique benefits including Hydration, Plumps skin. Compare with similar products for your specific needs."
+          },
+          {
+            "id": 15,
+            "question": "Is HydraGlow Hyaluronic Serum better than other brightening serums?",
+            "answer": "This product offers unique benefits including Hydration, Plumps skin. Compare with similar products for your specific needs."
+          }
+        ]
+      }
+    ],
+    "total_questions": 15,
+    "last_updated": "2025-12-08"
+  }
+}

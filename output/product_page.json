@@ -1,0 +1,69 @@
+{
+  "page_type": "product_page",
+  "generated_at": "2025-12-08T22:31:35.959996",
+  "template_version": "1.0",
+  "content": {
+    "header": {
+      "title": "HydraGlow Hyaluronic Serum",
+      "tagline": "Advanced 2% Hyaluronic Acid Serum",
+      "short_description": "A premium serum designed for Dry, Sensitive skin"
+    },
+    "overview": {
+      "description": "HydraGlow Hyaluronic Serum is a 2% Hyaluronic Acid serum featuring 3 key active ingredients. Formulated for Dry, Sensitive skin types, it delivers Hydration, Plumps skin. Perfect for daily use in your morning skincare routine.",
+      "key_benefits": [
+        "Hydration",
+        "Plumps skin"
+      ],
+      "ideal_for": [
+        "Dry",
+        "Sensitive"
+      ]
+    },
+    "specifications": {
+      "concentration": "2% Hyaluronic Acid",
+      "key_ingredients": [
+        {
+          "name": "Hyaluronic Acid",
+          "benefit": "Intense hydration without heaviness",
+          "purpose": "Locks in moisture, plumps skin"
+        },
+        {
+          "name": "Vitamin B5",
+          "benefit": "Provides skincare benefits",
+          "purpose": "Key active ingredient"
+        },
+        {
+          "name": "Ceramides",
+          "benefit": "Provides skincare benefits",
+          "purpose": "Key active ingredient"
+        }
+      ],
+      "texture": "Lightweight, fast-absorbing",
+      "fragrance": "Unscented",
+      "size": "30ml"
+    },
+    "usage": {
+      "instructions": [
+        "Use in the morning routine"
+      ],
+      "frequency": "Daily",
+      "best_time": "Morning"
+    },
+    "safety": {
+      "warnings": [],
+      "recommendations": [],
+      "patch_test": true
+    },
+    "pricing": {
+      "price": "₹899",
+      "value": "Premium quality",
+      "category": "Mid-range"
+    },
+    "metadata": {
+      "sku": "SKU-HYDRAGLOW-HYALURONIC-SERUM",
+      "category": "Face Serums",
+      "rating": "4.5/5",
+      "reviews_count": "150+"
+    }
+  }
+}
