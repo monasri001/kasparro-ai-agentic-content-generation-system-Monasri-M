@@ -3,7 +3,7 @@
 ## **Multi-Agent Content Generation System - Technical Documentation**
 
 **Author:** Monasri  
-**Repository:** kasparro-ai-agentic-content-generation-system
+**Repository:** kasparro-ai-agentic-content-generation-system-Monasri-M
 
 ---
 
