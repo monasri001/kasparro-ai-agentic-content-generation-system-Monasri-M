@@ -1,4 +1,4 @@
-# 🧠 Kasparro AI Agentic Content Generation System
+# 🧠 AI Agentic Content Generation System
 
 *A production-ready multi-agent workflow that transforms minimal product data into complete structured content.*
 
@@ -307,4 +307,5 @@ This project is licensed under the **MIT License**.
 * Python open-source community
 
 ---
+
 
